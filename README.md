@@ -18,9 +18,9 @@
 ──────────────────────────────────────────────────────────
 
 **Title**: My Page  
-**Version**: 1.0.0  
+**Version**: 2.0.0  
 **Author**: tomlimon  
-**Date**: October 2024  
+**Date**: Janvier 2025  
 **Description**: Just Me  
 
 ──────────────────────────────────────────────────────────
@@ -31,7 +31,6 @@
 
 - **Activity**: 42 Student Perpignan  
 - **Age**: 18 years  
-- **Working on**: LibFT  
 - **Fun fact**: Daft Punk Addict  
 
 ──────────────────────────────────────────────────────────
